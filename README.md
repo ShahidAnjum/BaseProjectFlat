@@ -2,21 +2,10 @@
 
 <b>Features:</b>
 <ul>
-  <li>Login</li>
-  <li>Sign Up</li>
-  <li>Change Password</li>
-  <li>Forgot Password</li>
-  <li>Reset Password</li>
-  <li>WalkThrough (Tutorials) Screens</li>
-  <li>Acra for crash</li>
+  <li>TMDB api for listing down popular mives lists
   <li>Push Notifications with Oreo Support </li>
 </ul>
 
-<b>Sample Credentials:</b>
-<ul>
-  <li>Email Id: user@appinventiv.com </li>
-  <li>Password: 123456</li>
-</ul>
 
 <b>This library also contains used classes:</b>
 <ul>
