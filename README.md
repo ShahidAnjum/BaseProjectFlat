@@ -33,8 +33,6 @@
 <b>Steps:</b>
 <ul>
   <li>Just Download this whole project, change Application Id from app gradle and start working on this project </li>
-  <li>Change Splash, Login and sign up UI according your project UI</li>
-  <li>Login, Sign Up Api has already implemented through Retrofit</li>
 </ul>
 
 <b>Note: Update the email address for crash reporting in application class</b>
